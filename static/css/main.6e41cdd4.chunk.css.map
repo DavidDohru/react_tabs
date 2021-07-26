@@ -1,0 +1,1 @@
+{"version":3,"sources":["Tabs.scss"],"names":[],"mappings":"AACA,oBACE,kBAAmB,CACpB,OAGC,WAAW,CACZ,cAEC,iBAAkB,CAClB,eAAgB,CAChB,SAAS,CACT,SAAU","file":"main.6e41cdd4.chunk.css","sourcesContent":["\n.nav-tabs .nav-link {\n  border-width: 1.8px;\n}\n\n.block {\n  margin:20px;\n}\n.nav__content {\n  position: absolute;\n  min-width: 300px;\n  top:120px;\n  left: 50px;\n\n}\n"]}
